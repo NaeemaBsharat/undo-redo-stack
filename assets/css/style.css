@@ -1,0 +1,22 @@
+
+
+body{
+    background-color: #B0C4DE;
+}
+#textArea {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid #008B8B; 
+    border-radius: 5px;
+  
+}
+
+/* Style for the Save button */
+#saveButton {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
